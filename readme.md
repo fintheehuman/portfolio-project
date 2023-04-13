@@ -1,6 +1,6 @@
 # An Intro To The Brooklyn Museum #
 <hr>
-
+How To Use
 
 The app was designed to showcase some highlighted art pieces from the Brooklyn Museum.
 
