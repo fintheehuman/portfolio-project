@@ -1,0 +1,96 @@
+h1,
+h2,
+h3 {
+    font-family: 'Cormorant Garamond', serif;
+    animation: fadeIn 3s;
+}
+
+a {
+    font-family: 'Cormorant Garamond', serif;
+    color: rgb(165, 31, 31);
+}
+
+p {
+    font-family: 'Cormorant Garamond', serif;
+}
+
+h2 {
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+legend {
+    font-family: 'Cormorant Garamond', serif;
+    text-align: center;
+    width: 150px;
+}
+
+select {  
+    width: 100%;
+}
+
+h1 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+li {
+    list-style: none;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 800%;
+    animation: fadeIn 5s;
+}
+    
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% {opacity: 1;}  
+}
+
+/*                             HTML SEPERATOR                            */
+
+
+
+img {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   max-width: 30%;
+   padding-left: 36%;
+   padding-bottom: 1%;
+}
+
+/* .american-art-cards {
+    visibility: hidden;
+} */
+
+
+
+
+
+
+
+/* .american-art-container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 140px;
+} */
+
+
+/* to be completed at the end of assignment. */
+
+/* @media (max-width: 1500px) {
+    
+  }
+  
+  @media (max-width: 992px) {
+    
+  }
+  
+  @media (max-width: 768px) {
+   
+  } */
